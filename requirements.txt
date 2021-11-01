@@ -4,3 +4,5 @@ chatting options
 colors 
 themes
 vibrant 
+Dark mode 
+video 
